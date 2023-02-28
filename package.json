@@ -1,0 +1,14 @@
+{
+  "name": "ts-error-parser",
+  "version": "1.0.0",
+  "description": "An error parser to parse through your typescript files and group them according to their error types.",
+  "main": "errorchecker.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Kong",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.14.2"
+  }
+}
