@@ -14,5 +14,5 @@ The script automatically groups them into their error types for easier debugging
 ### Expected output
 
 <p align="center">
-  <img src="https://github.com/legendkong/ts-error-parser/blob/master/example.png?raw=true" width="800">
+  <img src="https://github.com/legendkong/ts-error-parser/example.png?raw=true" width="800">
 </p>
